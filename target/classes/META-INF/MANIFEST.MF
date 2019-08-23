@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-cloud-config-client-sample
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: P10481516
+Implementation-Vendor-Id: org
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-cloud-config-client-sample
+Created-By: Maven Integration for Eclipse
+
